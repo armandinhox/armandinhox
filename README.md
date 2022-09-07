@@ -15,8 +15,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" alt="Lua logo" title="Lua" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C%23 logo" title="C%23" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C%23 logo" title="C%23" height="25" />
 
 
 ## 😊 FrontEnd 😊
