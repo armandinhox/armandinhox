@@ -9,8 +9,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 
 
 ## 🛠 BackEnd 🛠
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
@@ -23,6 +22,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 ## 😊 FrontEnd 😊
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" />&nbsp;
