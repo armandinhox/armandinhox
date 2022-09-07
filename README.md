@@ -62,7 +62,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian logo" title="Debian" height="25" />
 
 
-## 📖 Atualmente Aprendendo / Aturrently Learning 📖
+## 📖 Atualmente Aprendendo / Currently Learning 📖
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
