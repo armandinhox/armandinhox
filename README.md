@@ -41,8 +41,9 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite logo" title="SQLite" height="25" />
-
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite logo" title="SQLite" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS logo" title="AWS" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 
 ## ❤️ Operating System ❤️
 <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />&nbsp;
