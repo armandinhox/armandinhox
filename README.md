@@ -58,7 +58,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 <img src="https://img.shields.io/badge/Manjaro-35BF5C?logo=Manjaro&logoColor=white" alt="Manjaro logo" title="Manjaro" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/OpenWrt-00B5E2?logo=OpenWrt&logoColor=white" alt="OpenWrt logo" title="OpenWrt" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white" alt="Pop!_OS logo" title="Pop!_OS" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=" alt="Arch_Linux logo" title="Arch_Linux" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch_Linux logo" title="Arch_Linux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian logo" title="Debian" height="25" />
 
 
@@ -66,8 +66,8 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />;
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
 
 
 ## 🔍 Onde me encontrar / Where to find me 🔍
-<a href = "mailto:armandotlx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a> armandotlx@gmail.com&nbsp; <img src="https://img.shields.io/badge/WhatsApp-282C34?logo=WhatsApp&logoColor=FFFFFF" alt="WhatsApp logo" title="WhatsApp" height="25" />  (21) 98472-5063 
+<a href="mailto:armandotlx@gmail.com" target="_bank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" /></a> armandotlx@gmail.com&nbsp; <img src="https://img.shields.io/badge/WhatsApp-282C34?logo=WhatsApp&logoColor=FFFFFF" alt="WhatsApp logo" title="WhatsApp" height="25" />  (21) 98472-5063 
