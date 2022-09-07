@@ -1,7 +1,7 @@
 # Hello!! Olá!!! ⚡⚡
 
 My name is Armando. I am a developer Full Stack living Rio de Janeiro, RJ. 🥐<br/>
-💬 I’m currently working on social Project.<br/>😄 Developing my... English and VueJS 🤦‍♂.
+💬 I’m currently working on Social Project.<br/>😄 Developing my... English and VueJS 🤦‍♂.
 
 
 Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeiro - RJ!<br/>
