@@ -9,7 +9,7 @@ Meu nome é Armando. Sou Desenvolvedor Full Stack estou morando no Rio de Janeir
 
 
 ## 🛠 BackEnd 🛠
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
